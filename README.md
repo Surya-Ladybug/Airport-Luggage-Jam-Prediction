@@ -17,11 +17,7 @@ The dashboard allows users to:
 Simply open the deployed Streamlit application using the link below.
 
 **Streamlit App:**
-> *(Paste your Streamlit URL here after deployment)*
-
-Example:
-
-https://airport-luggage-jam-prediction.streamlit.app
+[https://airport-luggage-jam-prediction.streamlit.app](https://airport-luggage-jam-prediction.streamlit.app)
 
 No installation or setup is required. The application runs entirely in the browser.
 
