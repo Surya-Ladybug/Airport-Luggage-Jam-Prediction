@@ -17,7 +17,7 @@ View predictions on the test dataset
 The application is deployed on Streamlit Cloud and runs entirely in your web browser.
 
 Streamlit App:
-https://airport-luggage-jam-prediction.streamlit.app
+[https://airport-luggage-jam-prediction.streamlit.app](https://airport-luggage-jam-prediction-b9tc2tsrglhnkhqdyfsy9o.streamlit.app/)
 
 No installation, dependency setup, or configuration is required. Everything has been integrated into the deployed application so it can be used directly from the browser.
 
